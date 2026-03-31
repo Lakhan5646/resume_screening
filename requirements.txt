@@ -4,5 +4,5 @@ nltk
 streamlit
 joblib
 PyPDF2
-altair
+altair.vegalite.v4
 numpy
