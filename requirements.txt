@@ -5,3 +5,4 @@ nltk
 streamlit
 joblib
 PyPDF2
+altair
